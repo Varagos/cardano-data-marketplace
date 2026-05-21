@@ -1,3 +1,13 @@
+# Thesis Repository
+
+This repo contains the code for my diploma thesis, which explores a decentralized marketplace for personal data using Cardano, Plutus smart contracts, IPFS, and a browser extension.
+
+Thesis publication:  
+http://artemis.cslab.ece.ntua.gr:8080/jspui/handle/123456789/18938
+
+## Setup and Running
+
+
 1. Install Docker
 
 2. Install Visual Studio Code
